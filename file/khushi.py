@@ -1,0 +1,1 @@
+print("Khushi is best")
